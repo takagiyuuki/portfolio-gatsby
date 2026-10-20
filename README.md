@@ -1,5 +1,5 @@
-
-> ⚠️ **Archived** — Superseded by [my-portfolio-website](https://github.com/takagiyuuki/my-portfolio-website). No longer maintained.
+> [!WARNING]
+> **This repository is archived and no longer maintained.**
 
 ---
 
